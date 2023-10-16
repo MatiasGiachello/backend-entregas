@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Cinturon 1",
+      "description": "Este es un producto prueba fue modificado",
+      "price": 700,
+      "status": true,
+      "category": "Cinturones",
+      "code": "AAA000",
+      "stock": 12,
+      "id": 1
+    },
+    {
+      "title": "Cinturon 2",
+      "description": "Este es un producto prueba",
+      "price": 500,
+      "status": true,
+      "category": "Cinturones",
+      "code": "AAA112",
+      "stock": 25,
+      "id": 2
+    },
+    {
+      "title": "Cinturon 3",
+      "description": "Este es un producto prueba",
+      "price": 1000,
+      "status": true,
+      "category": "Cinturones",
+      "thumbnail": {},
+      "code": "AAA113",
+      "stock": 25,
+      "id": 3
+    },
+    {
+      "title": "Cinturon 4",
+      "description": "Este es un producto prueba",
+      "price": 400,
+      "status": true,
+      "category": "Cinturones",
+      "code": "AAA114",
+      "stock": 25,
+      "id": 4
+    }
+  ]
